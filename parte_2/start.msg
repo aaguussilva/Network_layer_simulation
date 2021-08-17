@@ -1,0 +1,3 @@
+packet Start {
+    bool direction;
+}
